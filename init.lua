@@ -1,0 +1,6 @@
+require("prayugo.plugins-setup")
+require("prayugo.core.options")
+require("prayugo.core.keymaps")
+require("prayugo.core.colorscheme")
+require("prayugo.plugins.comment")
+require("prayugo.plugins.nvim-tree")
